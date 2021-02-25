@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>XmlProcessing</name>
+    </assembly>
+    <members>
+        <member name="T:XmlProcessing.XmlReader">
+            <summary>
+            Class for getting data from xml file
+            </summary>
+        </member>
+        <member name="M:XmlProcessing.XmlReader.Read(System.String)">
+            <summary>
+            Gets data from xml file
+            </summary>
+            <param name="xmlPath">Path to xml file</param>
+            <returns>Equipment guide</returns>
+        </member>
+        <member name="M:XmlProcessing.XmlReader.ConvertFromStrings(System.String,System.String,System.String,System.String)">
+            <summary>
+            Creates an instance of the equipment class from string data
+            </summary>
+            <param name="name">Name</param>
+            <param name="stringOwner">Onwer</param>
+            <param name="stringCost">Cost</param>
+            <param name="stringYear">Year</param>
+            <returns>Instance of the equipment class</returns>
+        </member>
+        <member name="T:XmlProcessing.XmlValidator">
+            <summary>
+            Class for validating xml documents
+            </summary>
+        </member>
+        <member name="M:XmlProcessing.XmlValidator.ValidateXml(System.String,System.String)">
+            <summary>
+            Checks the file against the schema
+            </summary>
+            <param name="xmlPath">Path to xml file</param>
+            <param name="schemaPath">Path to schema</param>
+            <returns>Validation result</returns>
+        </member>
+        <member name="T:XmlProcessing.XmlWriter">
+            <summary>
+            Class for saving data
+            </summary>
+        </member>
+        <member name="M:XmlProcessing.XmlWriter.Save(EquipmentGuides.EquipmentGuide,System.String)">
+            <summary>
+            Saves data to xml file
+            </summary>
+            <param name="equipmentGuide">Equipment guide</param>
+            <param name="path">File path</param>
+        </member>
+        <member name="M:XmlProcessing.XmlWriter.FillEquipmentNode(System.Xml.XmlDocument,System.Xml.XmlElement,System.String,System.String)">
+            <summary>
+            Fills a equipment node
+            </summary>
+            <param name="document">Xml document</param>
+            <param name="equipmentNode">Node</param>
+            <param name="name">Name of property</param>
+            <param name="value">Value of property</param>
+        </member>
+    </members>
+</doc>

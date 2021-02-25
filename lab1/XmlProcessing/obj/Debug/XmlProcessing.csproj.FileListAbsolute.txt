@@ -1,0 +1,12 @@
+D:\oop\lab1\XmlProcessing\bin\Debug\XmlProcessing.pdb
+D:\oop\lab1\XmlProcessing\obj\Debug\XmlProcessing.csprojAssemblyReference.cache
+D:\oop\lab1\XmlProcessing\obj\Debug\XmlProcessing.csproj.CoreCompileInputs.cache
+D:\oop\lab1\XmlProcessing\obj\Debug\XmlProcessing.pdb
+D:\oop\lab1\XmlProcessing\bin\Debug\EquipmentGuide.pdb
+D:\oop\lab1\XmlProcessing\obj\Debug\XmlProcessing.csproj.CopyComplete
+D:\oop\lab1\XmlProcessing\bin\Debug\EquipmentGuide.dll
+D:\oop\lab1\XmlProcessing\bin\Debug\EquipmentGuide.dll.config
+D:\oop\lab1\XmlProcessing\bin\Debug\XmlProcessing.dll.config
+D:\oop\lab1\XmlProcessing\bin\Debug\XmlProcessing.xml
+D:\oop\lab1\XmlProcessing\bin\Debug\XmlProcessing.dll
+D:\oop\lab1\XmlProcessing\obj\Debug\XmlProcessing.dll

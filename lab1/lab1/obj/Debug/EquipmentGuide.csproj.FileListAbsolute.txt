@@ -1,0 +1,7 @@
+D:\oop\lab1\lab1\bin\Debug\EquipmentGuide.pdb
+D:\oop\lab1\lab1\obj\Debug\EquipmentGuide.csprojAssemblyReference.cache
+D:\oop\lab1\lab1\obj\Debug\EquipmentGuide.csproj.CoreCompileInputs.cache
+D:\oop\lab1\lab1\obj\Debug\EquipmentGuide.pdb
+D:\oop\lab1\lab1\bin\Debug\EquipmentGuide.dll.config
+D:\oop\lab1\lab1\bin\Debug\EquipmentGuide.dll
+D:\oop\lab1\lab1\obj\Debug\EquipmentGuide.dll
