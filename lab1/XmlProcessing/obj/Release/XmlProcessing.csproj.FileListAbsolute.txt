@@ -1,0 +1,11 @@
+D:\oop\lab1\XmlProcessing\bin\Release\XmlProcessing.dll.config
+D:\oop\lab1\XmlProcessing\bin\Release\XmlProcessing.dll
+D:\oop\lab1\XmlProcessing\bin\Release\XmlProcessing.pdb
+D:\oop\lab1\XmlProcessing\bin\Release\EquipmentGuide.dll
+D:\oop\lab1\XmlProcessing\bin\Release\EquipmentGuide.pdb
+D:\oop\lab1\XmlProcessing\bin\Release\EquipmentGuide.dll.config
+D:\oop\lab1\XmlProcessing\obj\Release\XmlProcessing.csprojAssemblyReference.cache
+D:\oop\lab1\XmlProcessing\obj\Release\XmlProcessing.csproj.CoreCompileInputs.cache
+D:\oop\lab1\XmlProcessing\obj\Release\XmlProcessing.csproj.CopyComplete
+D:\oop\lab1\XmlProcessing\obj\Release\XmlProcessing.dll
+D:\oop\lab1\XmlProcessing\obj\Release\XmlProcessing.pdb

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<EquipmentGuide xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EquipmentList>
+    <Equipment>
+      <Name>Phone</Name>
+      <OwnerOrganization>Beltelecom</OwnerOrganization>
+      <Cost>4566</Cost>
+      <ProductionYear>2014</ProductionYear>
+    </Equipment>
+  </EquipmentList>
+</EquipmentGuide>e>

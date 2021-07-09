@@ -1,0 +1,41 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Guide">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Equipment" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+	      <xs:element type="xs:string" name="Name"/>
+              <xs:element name="OwnerOrganization">
+  		<xs:simpleType>
+    		 <xs:restriction base="xs:string">
+                   <xs:enumeration value="Belaz"/>
+                   <xs:enumeration value="Gomselmash"/>
+      		   <xs:enumeration value="MTZ"/>
+		   <xs:enumeration value="MAZ"/>
+                   <xs:enumeration value="Beltelecom"/>
+                 </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Cost">
+  		<xs:simpleType>
+    		 <xs:restriction base="xs:decimal">
+      		   <xs:minInclusive value="0"/>
+                 </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+	      <xs:element name="ProductionYear">
+  		<xs:simpleType>
+    		 <xs:restriction base="xs:int">
+      		   <xs:minInclusive value="0"/>
+      		   <xs:maxInclusive value="2100"/>
+                 </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
